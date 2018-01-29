@@ -1,0 +1,3 @@
+def question():
+	question = input("What is your question?")
+	response = question 
